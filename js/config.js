@@ -38,10 +38,10 @@ const API_SITES = {
         api: 'https://tyyszy.com',
         name: '天涯资源',
     },
-    // xiaomaomi: {
-    //     api: 'https://zy.xiaomaomi.cc',
-    //     name: '小猫咪资源',
-    // },
+    xiaomaomi: {
+        api: 'https://zy.xiaomaomi.cc',
+        name: '小猫咪资源',
+    },
     ffzy: {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
@@ -157,6 +157,56 @@ const API_SITES = {
     yutu: {
         api: 'https://yutuzy10.com',
         name: '玉兔资源',
+        adult: true
+    },
+    senlin: {
+        api: 'https://senlinzy2.com',
+        name: '森林资源',
+        adult: true
+    },
+    naixiang: {
+        api: 'https://naixxzy.com',
+        name: '奶香资源',
+        adult: true
+    },
+    huanggua: {
+        api: 'https://avre00.com',
+        name: '黄瓜资源',
+        adult: true
+    },
+    shayu: {
+        api: 'https://shayuzy5.com',
+        name: '鲨鱼资源',
+        adult: true
+    },
+    caoliu: {
+        api: 'https://caoliuzyw.com',
+        name: '草榴资源',
+        adult: true
+    },
+    jingpin: {
+        api: 'https://jingpinx.com',
+        name: '精品资源',
+        adult: true
+    },
+    fanhao: {
+        api: 'https://fhzy10.com',
+        name: '番号资源',
+        adult: true
+    },
+    xiaoji: {
+        api: 'https://xiaojizy.live',
+        name: '小鸡资源',
+        adult: true
+    },
+    xingba: {
+        api: 'https://xingba111.com',
+        name: '杏吧资源',
+        adult: true
+    },
+    vov: {
+        api: 'https://vovzy.com/',
+        name: 'Vov伦理',
         adult: true
     },
 };
